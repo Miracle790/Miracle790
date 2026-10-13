@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm a Software Developer 👋
 
-<!--
-**Miracle790/Miracle790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm completing my degree in Applied Computer Science and building practical software solutions.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- PHP and Laravel
+- Java and C++
+- HTML, CSS and JavaScript
+- MySQL and database management
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### ERP system
+A business oriented system.
+### Student Management System
+An academic software project focused on organizing student records and administrative activities.
+
+## 🎯 Interests
+- Web and application development
+- Database management
+- Business systems and ERP development
+- IT support and troubleshooting
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Miracle790
